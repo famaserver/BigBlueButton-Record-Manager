@@ -1,0 +1,24 @@
+# PHP
+*.log
+*.tmp
+*.temp
+
+# Database config
+db.php
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# OS
+.DS_Store
+Thumbs.db
+
+# XAMPP
+htdocs
+
+# Cache
+*.cache
+
