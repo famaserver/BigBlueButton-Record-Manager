@@ -103,7 +103,7 @@ BigBlueButton-Record-Handler is a tool for managing and organizing BigBlueButton
 - پیش‌فرض کلمه عبور: `famaserver`
 
 ### اسپانسر
-این پروژه توسط [فاماسرور](https://famaserver.com/vps/) اسپانسر شده است.
+این پروژه توسط [سرور مجازی فاماسرور](https://famaserver.com/vps/) اسپانسر شده است.
 
 ---
 
