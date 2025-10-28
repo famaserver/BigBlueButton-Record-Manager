@@ -1,5 +1,3 @@
-<<<<<<< HEAD
-<<<<<<< HEAD
 # famabutton
 
 سیستم مدیریت پنل سرورهای BigBlueButton
@@ -61,7 +59,7 @@ CREATE TABLE servers (
 5. ایجاد کاربر:
 ```sql
 INSERT INTO users (username, email, password) VALUES 
-('admin', 'admin@example.com', 'admin123');
+('famaserver', 'admin@example.com', 'famaserver');
 ```
 
 6. اجرا:
