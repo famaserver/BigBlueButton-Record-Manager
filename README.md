@@ -84,7 +84,8 @@ famabutton/
 
 ## ارتباط
 - وب‌سایت: [famaserver.com](https://famaserver.com)
-- ایمیل: info@famaserver.com
+- آدرس مقاله اصلی: [ گام برای مدیریت ویدیوهای ضبط شده در BigBlueButton](https://famaserver.com/5-steps-to-manage-recorded-videos-in-bigbluebutton/)
+
 =======
 # BigBlueButton-Record-Handler
 BigBlueButton-Record-Handler is a tool for managing and organizing BigBlueButton server recordings. It allows administrators to easily track, retrieve, and manage meeting archives. With automated processes and data handling capabilities, this project simplifies server management and enhances the accessibility of recorded sessions.
@@ -102,6 +103,7 @@ BigBlueButton-Record-Handler is a tool for managing and organizing BigBlueButton
 
 ### اسپانسر
 این پروژه توسط [سرور مجازی فاماسرور](https://famaserver.com/vps/) اسپانسر شده است.
+منبع اصلی
 
 ---
 
